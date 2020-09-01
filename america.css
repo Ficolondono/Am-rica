@@ -1,0 +1,208 @@
+head{
+	font-family: cursive;
+}
+body{
+	font-family: cursive;
+	background-color: #DFF2F2;
+}
+.ima{
+	margin-top: 974;
+}
+.mar{
+	width: 1340px;
+	height: 36px;
+	background-color: #B4A491;
+	font-size: 22px;
+}
+.boton1{
+	display: inline-block;
+	height: 80px;
+	width: 90px;
+	background-color: #E84242;
+}
+.boton1:hover {
+	top: 450px;
+	left: 473.5px;
+	background: url(Que.jpg);
+	height: 300px;
+	width: 393px;
+	text-shadow: transparent;
+	color: transparent;
+	position: absolute;
+}
+.boton2{
+	display: inline-block;
+	height: 80px;
+	width: 115px;
+	background-color: #85AF82;
+}
+.boton2:hover {
+	top: 450px;
+	left: 473px;
+	height: 300px;
+	width: 394px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(Cuando.jpg);
+	position: absolute;
+}
+.boton3{
+	display: inline-block;
+	height: 80px;
+	width: 170px;
+	background-color: #C5D6C4;
+}
+.boton3:hover {
+	top: 450px;
+	left: 472px;
+	height: 300px;
+	width: 396px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(Importante.jpg);
+	position: absolute;
+}
+.boton4{
+	display: inline-block;
+	height: 80px;
+	width: 130px;
+	background-color: #035A5D;
+}
+.boton4:hover {
+	top: 450px;
+	left: 474px;
+	height: 300px;
+	width: 392px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(Porque.jpg);
+	position: absolute;
+}
+.punto1{
+	position: absolute; top: 690px; left: 1090px;
+	width: 50px;
+    height: 50px;
+    background-color: rgba(16,239,243,0.4);
+}
+.punto1:hover {
+	top: 690px;
+	left: 853px;
+	height: 300px;
+	width: 320px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(Barcos.jpg);
+	position: absolute;
+}
+.punto2{
+	position: absolute; top: 700px; left: 920px;
+	width: 50px;
+    height: 50px;
+    background-color: rgba(98,234,121,0.4);
+}
+.punto2:hover {
+	top: 700px;
+	left: 683px;
+	height: 300px;
+	width: 320px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(Banderas.jpg);
+	position: absolute;
+}
+.punto3{
+	position: absolute; top: 930px; left: 618px;
+	width: 50px;
+    height: 50px;
+    background-color: rgba(225,241,59,0.4);
+}
+.punto3:hover {
+	top: 930px;
+	left: 381px;
+	height: 300px;
+	width: 320px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(Cristobal.jpg);
+	position: absolute;
+}
+.punto4{
+	position: absolute; top: 904px; left: 418px;
+	width: 50px;
+    height: 50px;
+    background-color: rgba(245,84,9,0.4);
+}
+.punto4:hover {
+	top: 904px;
+	left: 181px;
+	height: 300px;
+	width: 320px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(Cura.jpg);
+	position: absolute;
+}
+.punto5{
+	position: absolute; top: 880px; left: 1030px;
+	width: 50px;
+    height: 50px;
+    background-color: rgba(134,173,243,0.4);
+}
+.punto5:hover {
+	top: 880px;
+	left: 793px;
+	height: 300px;
+	width: 320px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(Gente.jpg);
+	position: absolute;
+}
+.punto6{
+	position: absolute; top: 880px; left: 180px;
+	width: 50px;
+    height: 50px;
+    background-color: rgba(225,32,32,0.4);
+}
+.punto6:hover {
+	top: 880px;
+	left: 10px;
+	height: 300px;
+	width: 320px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(Indigenas.jpg);
+	position: absolute;
+}
+.punto7{
+	position: absolute; top: 640px; left: 380px;
+	width: 50px;
+    height: 50px;
+    background-color: rgba(225,32,225,0.4);
+}
+.punto7:hover {
+	top: 640px;
+	left: 143px;
+	height: 300px;
+	width: 323px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(Árbol.jpg);
+	position: absolute;
+}
+.punto8{
+	position: absolute; top: 1150px; left: 810px;
+	width: 50px;
+    height: 50px;
+    background-color: rgba(127,132,239,0.4);
+}
+.punto8:hover {
+	top: 920px;
+	left: 573px;
+	height: 300px;
+	width: 320px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(Suelo.jpg);
+	position: absolute;
+}
